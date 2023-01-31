@@ -1,0 +1,1 @@
+This repo contains exercises solutions, some annotations, and scratches for the course [Engineering Math: Differential Equations and Dynamical Systems](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA) by Professor Steve Bruton.
